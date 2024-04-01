@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leamei Quiñanola 🩷</h1>
-<h3 align="center">An enthusiastic IT student from Philippines.</h3>
+<h3 align="center">An enthusiastic IT student from Philippines. 🇵🇭</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leiiquin&label=Profile%20views&color=0e75b6&style=flat" alt="leiiquin" /> </p>
 

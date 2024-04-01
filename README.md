@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **Systems Integration and Architecture**
 
 - 📫 How to reach me **quinanola222@mkt.ceu.edu.ph**
+![Uploading image.gif…]()
 
 - ⚡ Fun fact **I love games**
 

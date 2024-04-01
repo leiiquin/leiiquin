@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=C877C6&lines=Hi+There!+👋;+I'm+Leamei+Quiñanola!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=C877C6&lines=Hi+There!+👋;+I'm+Leamei+Quiñanola;" />
 </h1>
 
 <h3 align="center">An enthusiastic IT student from Philippines. 🇵🇭</h3>
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **quinanola222@mkt.ceu.edu.ph**                                             
 - ⚡ Fun fact **I love games**
--  ![nezuko-spin](https://github.com/leiiquin/leiiquin/assets/158989522/4faf5323-124b-4c15-9fef-742e4a573c68)
+   ![nezuko-spin](https://github.com/leiiquin/leiiquin/assets/158989522/4faf5323-124b-4c15-9fef-742e4a573c68)
 
 
 <h3 align="left">Connect with me:</h3>

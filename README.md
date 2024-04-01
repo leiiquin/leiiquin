@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Leamei Quiñanola</h1>
+<h1 align="center">Hi 👋, I'm Leamei Quiñanola 🩷</h1>
 <h3 align="center">An enthusiastic IT student from Philippines.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leiiquin&label=Profile%20views&color=0e75b6&style=flat" alt="leiiquin" /> </p>
@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning **Systems Integration and Architecture**
 
 - 📫 How to reach me **quinanola222@mkt.ceu.edu.ph**
-![Uploading image.gif…]()
 
 - ⚡ Fun fact **I love games**
 - ![nezuko-spin](https://github.com/leiiquin/leiiquin/assets/158989522/4faf5323-124b-4c15-9fef-742e4a573c68)

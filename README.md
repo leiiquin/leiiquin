@@ -1,5 +1,3 @@
-
-- ![nezuko-spin](https://github.com/leiiquin/leiiquin/assets/158989522/4faf5323-124b-4c15-9fef-742e4a573c68)
 <h1 align="center">Hi 👋, I'm Leamei Quiñanola 🩷</h1>
 <h3 align="center">An enthusiastic IT student from Philippines. 🇵🇭</h3>
 
@@ -9,9 +7,10 @@
 
 - 🌱 I’m currently learning **Systems Integration and Architecture**
 
-- 📫 How to reach me **quinanola222@mkt.ceu.edu.ph**
-
+- 📫 How to reach me **quinanola222@mkt.ceu.edu.ph**                                             
 - ⚡ Fun fact **I love games**
+-  ![nezuko-spin](https://github.com/leiiquin/leiiquin/assets/158989522/4faf5323-124b-4c15-9fef-742e4a573c68)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

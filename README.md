@@ -31,3 +31,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leiiquin&show_icons=true&locale=en" alt="leiiquin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leiiquin&" alt="leiiquin" /></p>
+
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>

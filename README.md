@@ -1,18 +1,21 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=C877C6&lines=Hi+There!+👋;+I'm+Leamei+Quiñanola;" />
 </h1>
+<h3 align="center">A passionate software developer from Philippines 🇵🇭</h3>
 
-<h3 align="center">An enthusiastic IT student from Philippines. 🇵🇭</h3>
+<br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leiiquin&label=Profile%20views&color=0e75b6&style=flat" alt="leiiquin" /> </p>
+<div align="center">
+ 
+ 🌱 I’m currently learning **Systems Integration and Architecture**
+ 
+ 📫 How to reach me **quinanola222@mkt.ceu.edu.ph**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leiiquin" alt="leiiquin" /></a> </p>
+⚡ Fun fact **I love games**
 
-- 🌱 I’m currently learning **Systems Integration and Architecture**
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
-- 📫 How to reach me **quinanola222@mkt.ceu.edu.ph**                                             
-- ⚡ Fun fact **I love games**
-   ![nezuko-spin](https://github.com/leiiquin/leiiquin/assets/158989522/4faf5323-124b-4c15-9fef-742e4a573c68)
+- ![nezuko-spin](https://github.com/leiiquin/leiiquin/assets/158989522/4faf5323-124b-4c15-9fef-742e4a573c68)
 
 
 <h3 align="left">Connect with me:</h3>

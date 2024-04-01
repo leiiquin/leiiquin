@@ -14,8 +14,6 @@
 
 ⚡ Fun fact **I love games**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
 - ![nezuko-spin](https://github.com/leiiquin/leiiquin/assets/158989522/4faf5323-124b-4c15-9fef-742e4a573c68)
 
 

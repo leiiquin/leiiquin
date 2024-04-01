@@ -11,6 +11,7 @@
 ![Uploading image.gif…]()
 
 - ⚡ Fun fact **I love games**
+- ![nezuko-spin](https://github.com/leiiquin/leiiquin/assets/158989522/4faf5323-124b-4c15-9fef-742e4a573c68)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Systems Integration and Architecture**
+ 🌱 I’m currently learning **Python, Java, HTML, CSS, MySQL, JS, Node.Js, C#, NoSQL**
  
  📫 How to reach me **quinanola222@mkt.ceu.edu.ph**
 

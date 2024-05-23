@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=C877C6&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Leamei+Quiñanola;" />
 </h1>
 
-<h3 align="center">An enthusiastic IT student from Philippines 🇵🇭</h3>
+<h3 align="center">An enthusiastic IT student from Philippines</h3>
 
 <br/>
 
